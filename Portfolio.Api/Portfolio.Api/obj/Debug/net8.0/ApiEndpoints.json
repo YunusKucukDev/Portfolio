@@ -1,0 +1,208 @@
+[
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ExperiencesController",
+    "Method": "GetAllExperinces",
+    "RelativePath": "api/Experiences",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ExperiencesController",
+    "Method": "CreateExperince",
+    "RelativePath": "api/Experiences",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createExperinceDto",
+        "Type": "Portfolio.Api.DTOs.CreateExperinceDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ExperiencesController",
+    "Method": "UpdateExperince",
+    "RelativePath": "api/Experiences",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateExperinceDto",
+        "Type": "Portfolio.Api.DTOs.ExperinceDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ExperiencesController",
+    "Method": "GetByIdExperince",
+    "RelativePath": "api/Experiences/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ExperiencesController",
+    "Method": "DeleteExperince",
+    "RelativePath": "api/Experiences/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ProjectsController",
+    "Method": "GetAllProjectss",
+    "RelativePath": "api/Projects",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ProjectsController",
+    "Method": "CreateProjects",
+    "RelativePath": "api/Projects",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "createProjectsDto",
+        "Type": "Portfolio.Api.DTOs.CreateProjectsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ProjectsController",
+    "Method": "UpdateProjects",
+    "RelativePath": "api/Projects",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "updateProjectsDto",
+        "Type": "Portfolio.Api.DTOs.ProjectsDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ProjectsController",
+    "Method": "GetByIdProjects",
+    "RelativePath": "api/Projects/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.ProjectsController",
+    "Method": "DeleteProjects",
+    "RelativePath": "api/Projects/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.UsersController",
+    "Method": "GetAllUserInformation",
+    "RelativePath": "api/Users",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.UsersController",
+    "Method": "CreateUserInformation",
+    "RelativePath": "api/Users",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Portfolio.Api.DTOs.CreateUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.UsersController",
+    "Method": "GetUserInformation",
+    "RelativePath": "api/Users/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "Portfolio.Api.Controllers.UsersController",
+    "Method": "UpdateUserInformation",
+    "RelativePath": "api/Users/UpdateUserInformation",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "Portfolio.Api.DTOs.UserEntityDTO",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

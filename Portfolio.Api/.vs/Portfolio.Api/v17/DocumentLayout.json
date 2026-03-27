@@ -1,0 +1,305 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{18894FCC-C55A-981E-1F9B-D2A758726006}|C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio|c:\\users\\90506\\desktop\\portfolio\\portfolio\\src\\request\\request.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18894FCC-C55A-981E-1F9B-D2A758726006}|C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio|c:\\users\\90506\\desktop\\portfolio\\portfolio\\src\\app.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{18894FCC-C55A-981E-1F9B-D2A758726006}|C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio|c:\\users\\90506\\desktop\\portfolio\\portfolio\\src\\router\\routes.tsx||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\services\\userservice\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\services\\userservice\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\mapping\\generalmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\dtos\\createuserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\dtos\\userentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\dtos\\userentitydto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\services\\experinceservice\\iexperinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\services\\experinceservice\\iexperinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\services\\experinceservice\\experinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\services\\experinceservice\\experinceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|c:\\users\\90506\\desktop\\portfolio\\portfolio.api\\portfolio.api\\controllers\\experiencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5ADD1F3-A57D-463C-BE77-F3630F73766C}|Portfolio.Api\\Portfolio.Api.csproj|solutionrelative:portfolio.api\\controllers\\experiencescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Request.ts",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio\\src\\Request\\Request.ts",
+              "RelativeDocumentMoniker": "..\\Portfolio\\src\\Request\\Request.ts",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio\\src\\Request\\Request.ts",
+              "RelativeToolTip": "..\\Portfolio\\src\\Request\\Request.ts",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-14T18:57:43.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.jsx",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio\\src\\App.jsx",
+              "RelativeDocumentMoniker": "..\\Portfolio\\src\\App.jsx",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio\\src\\App.jsx",
+              "RelativeToolTip": "..\\Portfolio\\src\\App.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-03-14T18:43:26.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Routes.tsx",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio\\src\\Router\\Routes.tsx",
+              "RelativeDocumentMoniker": "..\\Portfolio\\src\\Router\\Routes.tsx",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio\\src\\Router\\Routes.tsx",
+              "RelativeToolTip": "..\\Portfolio\\src\\Router\\Routes.tsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2026-03-14T18:41:05.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GeneralMapping.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Mapping\\GeneralMapping.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Mapping\\GeneralMapping.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Mapping\\GeneralMapping.cs",
+              "RelativeToolTip": "Portfolio.Api\\Mapping\\GeneralMapping.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:10:10.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserEntityDTO.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\DTOs\\UserEntityDTO.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\DTOs\\UserEntityDTO.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\DTOs\\UserEntityDTO.cs",
+              "RelativeToolTip": "Portfolio.Api\\DTOs\\UserEntityDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:09:58.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateUserDto.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\DTOs\\CreateUserDto.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\DTOs\\CreateUserDto.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\DTOs\\CreateUserDto.cs",
+              "RelativeToolTip": "Portfolio.Api\\DTOs\\CreateUserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:09:51.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\UserService\\UserService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Services\\UserService\\UserService.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\UserService\\UserService.cs",
+              "RelativeToolTip": "Portfolio.Api\\Services\\UserService\\UserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:08:31.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\UserService\\IUserService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Services\\UserService\\IUserService.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\UserService\\IUserService.cs",
+              "RelativeToolTip": "Portfolio.Api\\Services\\UserService\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:08:30.882Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IExperinceService.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\ExperinceService\\IExperinceService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Services\\ExperinceService\\IExperinceService.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\ExperinceService\\IExperinceService.cs",
+              "RelativeToolTip": "Portfolio.Api\\Services\\ExperinceService\\IExperinceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:08:17.707Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExperinceService.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\ExperinceService\\ExperinceService.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Services\\ExperinceService\\ExperinceService.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Services\\ExperinceService\\ExperinceService.cs",
+              "RelativeToolTip": "Portfolio.Api\\Services\\ExperinceService\\ExperinceService.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABsAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:08:16.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Portfolio.Api\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T18:00:22.58Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "Portfolio.Api\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:46:42.788Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Program.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Program.cs",
+              "RelativeToolTip": "Portfolio.Api\\Program.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAACsAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T18:01:00.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "Portfolio.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\appsettings.json",
+              "RelativeToolTip": "Portfolio.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-14T18:00:18.956Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ProjectsController.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Controllers\\ProjectsController.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Controllers\\ProjectsController.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Controllers\\ProjectsController.cs",
+              "RelativeToolTip": "Portfolio.Api\\Controllers\\ProjectsController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:57:28.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ExperiencesController.cs",
+              "DocumentMoniker": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Controllers\\ExperiencesController.cs",
+              "RelativeDocumentMoniker": "Portfolio.Api\\Controllers\\ExperiencesController.cs",
+              "ToolTip": "C:\\Users\\90506\\Desktop\\Portfolio\\Portfolio.Api\\Portfolio.Api\\Controllers\\ExperiencesController.cs",
+              "RelativeToolTip": "Portfolio.Api\\Controllers\\ExperiencesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-14T17:53:20.384Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
